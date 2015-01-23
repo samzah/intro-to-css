@@ -1,0 +1,64 @@
+
+
+
+html {
+    background-color: #C4B7A8;
+}
+
+
+
+h1{
+  font-weight: normal;
+  font-size: 3rem;
+  font-style: italic;
+  text-decoration: underline;
+  font-family: 'Quicksand', sans-serif;
+  line-height: 1.5;
+  color: #3B2F10;
+}
+
+
+h2{
+  font-weight: normal;
+  font-size: 2rem;
+  text-decoration: none;
+  font-family: 'Quicksand', sans-serif;
+  line-height: 1.5;
+  color: #3B2F10;
+}
+
+
+
+ol {
+  list-style-type: none; /* none, decimal, lower-roman, lower alpha, disc, circle, square */
+  padding: 0;
+  line-height: 1.5; /* multiplier */
+}
+
+
+.hot {
+  color: blue;
+  font-weight: bold;
+}
+
+.bold {
+  color: blue;
+  font-weight: bold;
+}
+
+.ugly {
+  color: blue;
+  font-weight: bold;
+}
+
+
+
+
+
+a {
+  color: #3B2F10;
+}
+
+a:hover {
+  color: blue
+}
